@@ -1,0 +1,8 @@
+*.csv
+*.json
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+drive/
+.DS_Store
+.vscode/
