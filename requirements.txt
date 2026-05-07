@@ -1,0 +1,11 @@
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+scikit-learn
+gensim
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
